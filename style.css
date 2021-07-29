@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@500&display=swap');
+#top-bg{
+    background-color:#264653; 
+    
+}
+#btn-bg-color{
+    background-color: #E76F51;
+}
+#fetured-down-text{
+    color: #E76F51;
+}
+#feature-bike{
+    filter: grayscale(100%);
+}
+#client-last-pic{
+    border-radius: 50%;
+    height: 100%;
+}
+.fas{
+    color: #E76F51;
+}
+#card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#optional-down-section-border{
+    border-radius: 20px;
+}
